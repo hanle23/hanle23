@@ -1,16 +1,19 @@
-### Hi there 👋
+<h1><img src="https://media.tenor.com/qRpPpBZjDSgAAAAi/rushil-whisper.gif" width="70"/> Hi guys! Nice to see you, I'm Han</h1>
 
-<!--
-**hanle23/hanle23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm a Full Stack Engineer at Tesoract Inc
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on building Tesoract application
+- 🏫 I have graduated from Computer Science program at **York University** interested in Software Engineering, AR/VR, Automation and Embedded System
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚡Work Experience:
+
+- Software Developer @ York University SCS IT Team [since July 2023]
+- Full Stack Developer @ Tesoract Inc [since April 2023]
+- Software Developer Co-op @ York University SCS IT Team [from Summer 2021 - Winter 2023]
+
+### 📫 Contact:
+
+[![Static Badge](https://img.shields.io/badge/Han%20Le-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/han-le23/)
+[![Static Badge](https://img.shields.io/badge/hanle.cs23%40gmail.com-red?style=flat&logo=Gmail&logoColor=white)](mailto:hanle.cs23@gmail.com)
+
+![](https://komarev.com/ghpvc/?username=hanle23)
