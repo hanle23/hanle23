@@ -16,4 +16,8 @@
 [![Static Badge](https://img.shields.io/badge/Han%20Le-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/han-le23/)
 [![Static Badge](https://img.shields.io/badge/hanle.cs23%40gmail.com-red?style=flat&logo=Gmail&logoColor=white)](mailto:hanle.cs23@gmail.com)
 
+### 📊 Stats:
+
+![Han's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanle23&show_icons=true&theme=transparent)
+
 ![](https://komarev.com/ghpvc/?username=hanle23)
