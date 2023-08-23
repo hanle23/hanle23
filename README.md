@@ -3,13 +3,19 @@
 ### I'm a Full Stack Engineer at Tesoract Inc
 
 - 🔭 I’m currently working on building Tesoract application
-- 🏫 I have graduated from Computer Science program at **York University** interested in Software Engineering, AR/VR, Automation and Embedded System
+- 🏫 Graduated from Computer Science program at **York University** on May 2023, field of interest are Software Engineering, AR/VR, Automation and Embedded System
+- 🎮 I love to build mechanical keyboard, trying different headphone and audio setups, playing games with my friend and coding
+- 🎯 2023 goals: Getting a full time SWE role, learn tons more of new stuff, meet new friend and invade my mom's soup pot
 
 ### ⚡Work Experience:
 
 - Software Developer @ York University SCS IT Team [since July 2023]
 - Full Stack Developer @ Tesoract Inc [since April 2023]
 - Software Developer Co-op @ York University SCS IT Team [from Summer 2021 - Winter 2023]
+
+🟩 Actively looking for SWE role in Canada
+
+---
 
 ### 📫 Contact:
 
