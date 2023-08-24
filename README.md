@@ -24,7 +24,7 @@
 
 ### 📊 Stats:
 
-![Han's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanle23&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanle23&layout=compact&theme=dark)
+![Han's GitHub stats](https://github-readme-stats-hanle23.vercel.app/api?username=hanle23&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats-hanle23.vercel.app/api/top-langs/?username=hanle23&layout=compact&theme=dark)
 
 ![](https://komarev.com/ghpvc/?username=hanle23)
