@@ -24,7 +24,8 @@
 
 ### 📊 Stats:
 
-<img src="https://github-readme-stats-hanle23.vercel.app/api?username=hanle23&show_icons=true&theme=dark">
+<p float="left"><img src="https://github-readme-stats-hanle23.vercel.app/api?username=hanle23&show_icons=true&theme=dark">
 <img src="https://github-readme-stats-hanle23.vercel.app/api/top-langs/?username=hanle23&layout=compact&theme=dark">
+</p>
 
 ![](https://komarev.com/ghpvc/?username=hanle23)
