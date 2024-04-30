@@ -4,14 +4,15 @@
 
 - 🔭 I’m currently working on building Tesoract application
 - 🏫 Graduated from Computer Science program at **York University** on May 2023, field of interest are Software Engineering, AR/VR, Automation and Embedded System
-- 🎮 I love to build mechanical keyboard, trying different headphone and audio setups, playing games with my friend and coding
-- 🎯 2023 goals: Getting a full time SWE role, learn tons more of new stuff, meet new friend and invade my mom's soup pot
+- 🎮 I love to build mechanical keyboard, try different headphone and audio setups, play games with my friend and coding
+- 🎯 2024 goals: Getting a full time SWE role, learn Go and Rust, build some project with both language and dabble in AR/VR
 
 ### ⚡Work Experience:
 
-- Software Developer @ York University SCS IT Team [since July 2023]
-- Full Stack Developer @ Tesoract Inc [since April 2023]
-- Software Developer Co-op @ York University SCS IT Team [from Summer 2021 - Winter 2023]
+- Full-stack Developer @ Tesoract Inc [since April 2023]
+- Information Technology Assistant @ York University SCS IT Team [since July 2023]
+- Front-end Engineer @ Consultarer [February 2023 - April 2023]
+- Information Technology Assistant (Work/Study) @ York University SCS IT Team [from Summer 2021 - Winter 2023]
 
 🟩 Actively looking for SWE role in Canada
 
@@ -27,5 +28,3 @@
 <p float="left"><img src="https://github-readme-stats-hanle23.vercel.app/api?username=hanle23&show_icons=true&theme=dark">
 <img src="https://github-readme-stats-hanle23.vercel.app/api/top-langs/?username=hanle23&layout=compact&theme=dark">
 </p>
-
-![](https://komarev.com/ghpvc/?username=hanle23)
