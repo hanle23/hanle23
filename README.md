@@ -24,6 +24,6 @@ Portfolio link: [portfolio-hanle23.vercel.app/](https://portfolio-hanle23.vercel
 [![Static Badge](https://img.shields.io/badge/Han%20Le-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/han-le23/)
 [![Static Badge](https://img.shields.io/badge/hanle.cs23%40gmail.com-red?style=flat&logo=Gmail&logoColor=white)](mailto:hanle.cs23@gmail.com)
 
-<p float="left"><img src="https://github-readme-stats-hanle23.vercel.app/api?username=hanle23&show_icons=true&theme=dark">
+<p float="left">
 <img src="https://github-readme-stats-hanle23.vercel.app/api/top-langs/?username=hanle23&layout=compact&theme=dark">
 </p>
