@@ -1,7 +1,7 @@
 <h1><img src="blob/master/rushil-whisper.gif" width="70"/> Hi guys! Nice to see you, I'm Han</h1>
 
 ### I'm a Full Stack Engineer at Tesoract Inc
-Portfolio link: [portfolio-hanle23.vercel.app/](https://portfolio-hanle23.vercel.app/)
+Portfolio link: [hanle23.me](https://hanle23.me/)
 
 - 🔭 I’m currently working on building Tesoract application
 - 🏫 Graduated from Computer Science program at **York University** on May 2023, field of interest are Software Engineering, AR/VR, Automation and Embedded System
