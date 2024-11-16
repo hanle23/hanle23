@@ -4,7 +4,7 @@
 Portfolio link: [hanle23.me](https://hanle23.me/)
 
 - 🔭 I’m currently working on building Tesoract application
-- 🏫 Graduated from Computer Science program at **York University** on May 2023, field of interest are Software Engineering, AR/VR, Automation and Embedded System
+- 🏫 Graduating from Computer Science program at **York University** on May 2025, field of interest are Software Engineering, AR/VR, Automation and Embedded System
 - 🎮 I love to build mechanical keyboard, try different headphone and audio setups, play games with my friend and coding
 - 🎯 2024 goals: Getting a full time SWE role, learn Go and Rust, build some project with both language and dabble in AR/VR
 
