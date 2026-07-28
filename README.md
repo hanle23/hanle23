@@ -1,4 +1,4 @@
-<h1><img src="blob/master/rushil-whisper.gif" width="70"/> Hi guys! Nice to see you, I'm Han</h1>
+Hi guys! Nice to see you, I'm Han</h1>
 
 ### I'm a Full Stack Engineer at Blurb.fm
 
